@@ -1,6 +1,6 @@
-## 👋 About me
+## Hi 👋 I'm Nuno!
 
-Hi! I'm Nuno, a master's student at Universidade Fernando Pessoa.
+I'm a master's student at Universidade Fernando Pessoa.
 
 I'm currently working while studying, so I'm a working student trying to grow both academically and professionally.
 
