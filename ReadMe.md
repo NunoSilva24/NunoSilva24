@@ -10,6 +10,11 @@ Always open to learning, sharing ideas and collaborating on projects.
 
 ---
 
+## 🚀 My Projects
+[![VetComAmor](https://img.shields.io/badge/🐾_Visit_VetComAmor-AFE1AF?style=for-the-badge)](https://www.vetcomamor.pt)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Core
