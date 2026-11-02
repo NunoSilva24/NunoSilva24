@@ -13,7 +13,7 @@ Always open to learning, sharing ideas and collaborating on projects.
 ### 🚀 My Projects
 [![VetComAmor](https://img.shields.io/badge/🐾_Visit_VetComAmor-AFE1AF?style=for-the-badge)](https://www.vetcomamor.pt)
 
-[![CloneNuno](https://img.shields.io/badge/Portefolio-0047AB?style=for-the-badge)](https://www.clonenuno.dev)
+[![CloneNuno](https://img.shields.io/badge/Portefolio-0047AB?style=for-the-badge)](https://clonenuno.dev)
 
 
 ---
